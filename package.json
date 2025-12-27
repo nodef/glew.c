@@ -1,0 +1,26 @@
+{
+  "name": "glew.c",
+  "version": "2.3.0",
+  "description": "The OpenGL Extension Wrangler Library; Milan Ikits and Marcelo Magallon (2002).",
+  "keywords": [
+    "c",
+    "library",
+    "opengl",
+    "extension",
+    "wrangler"
+  ],
+  "homepage": "https://github.com/nodef/glew.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/glew.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/glew.c.git"
+  },
+  "license": "BSD-3-Clause",
+  "author": "wolfram77@gmail.com",
+  "main": "GL/glew.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
+}
